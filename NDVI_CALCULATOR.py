@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 #Chemins vers les bandes Sentiel-2 ( B04, B08 )
-red_path = Path("C:/Users/Enzo/Folium/AutoGIS/Browser_images/2025-09-19-00_00_2025-09-19-23_59_Sentinel-2_L2A_B04_(Raw).tiff")
-nir_path = Path("C:/Users/Enzo/Folium/AutoGIS/Browser_images/2025-09-19-00_00_2025-09-19-23_59_Sentinel-2_L2A_B08_(Raw).tiff")
+red_path = Path("") # C:/Users/.../2025-09-19-00_00_2025-09-19-23_59_Sentinel-2_L2A_B04_(Raw).tiff
+nir_path = Path("") # C:/Users/.../2025-09-19-00_00_2025-09-19-23_59_Sentinel-2_L2A_B08_(Raw).tiff
 
 # Chargement et normalisation des bandes d'images satellites
 def load_band(path:str):
@@ -49,4 +49,5 @@ ndvi = calculate_ndvi(nir, red)
 statistics(ndvi)
 
 #Visualisation
+
 plot_ndvi(ndvi)
