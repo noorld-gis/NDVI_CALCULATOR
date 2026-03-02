@@ -1,5 +1,7 @@
 # NDVI_CALCULATOR
-Development of a Python tool for analysing Sentinel-2 satellite images: NDVI calculation
+Development of a Python tool for analysing Sentinel-2 satellite images: NDVI calculation. \
+**‼️ Warning:** The source code is available in `.py` on GitHub, but it was originally developed in a **Jupyter Notebook `.ipynb`**.
+
 
 ### Overview
 This project analyzes vegetation dynamics using Sentinel-2 satellite imagery.
