@@ -1,6 +1,9 @@
 # NDVI_CALCULATOR
+
+
+
 Development of a Python tool for analysing Sentinel-2 satellite images: NDVI calculation. \
-**‼️ Warning:** The source code is available in `.py` on GitHub, but it was originally developed in a **Jupyter Notebook `.ipynb`**.
+**‼️** The readme file is written in English simply because that is my personal preference. And the source code is available in `.py` on GitHub, but it was originally developed in a **Jupyter Notebook `.ipynb`**.
 
 
 ### Overview
