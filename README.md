@@ -10,6 +10,14 @@ Development of a Python tool for analysing Sentinel-2 satellite images: NDVI cal
 This project analyzes vegetation dynamics using Sentinel-2 satellite imagery.
 The goal is to compute and visualize the NDVI (Normalized Difference Vegetation Index) for environmental assessment.
 
+<img width="633" height="487" alt="image" src="https://github.com/user-attachments/assets/fef5b8ee-5077-4ce8-9147-1aaf5f554b78" />
+
+
+```
+Satellite image taken of the city of Blois in France on Copernicus Browser.
+This image has a “Max. cloud coverage:” of 0% for better visibility, which brings us to the period of February 2023.
+```
+
 ### Data
 Source : Copernicus Sentinel-2 \
 Resolution : 10m \
